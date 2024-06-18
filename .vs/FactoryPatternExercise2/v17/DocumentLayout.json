@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\listdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\listdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\mongodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\mongodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\truecoders\\factory-pattern-exercise-2\\factorypatternexercise2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AEC69B-F208-42A6-AAAE-50C0E9D4C670}|FactoryPatternExercise2\\FactoryPatternExercise2.csproj|solutionrelative:factorypatternexercise2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\DataAccessFactory.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\DataAccessFactory.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\DataAccessFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:45:57.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MongoDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\MongoDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\MongoDataAccess.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\MongoDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\MongoDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:46:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\SQLDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\SQLDataAccess.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\SQLDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\SQLDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:45:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\ListDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\ListDataAccess.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\ListDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\ListDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:45:31.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\IDataAccess.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\IDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:44:29.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Product.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\Product.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Product.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:42:56.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryPatternExercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\TRUECODERS\\Factory-Pattern-Exercise-2\\FactoryPatternExercise2\\Program.cs",
+              "RelativeToolTip": "FactoryPatternExercise2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:43:41.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
